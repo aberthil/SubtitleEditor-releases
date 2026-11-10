@@ -63,9 +63,9 @@ Drop the original SRT (Plex language tag), drop translation SRTs, edit in the ta
 
 | | |
 |--|--|
-| **Latest Setup** | [SubtitleEditor-1.0.2-Setup.exe](https://github.com/aberthil/SubtitleEditor-releases/releases/latest/download/SubtitleEditor-1.0.2-Setup.exe) |
+| **Latest Setup** | [SubtitleEditor-1.0.3-Setup.exe](https://github.com/aberthil/SubtitleEditor-releases/releases/latest/download/SubtitleEditor-1.0.3-Setup.exe) |
 | **All versions** | [Releases](https://github.com/aberthil/SubtitleEditor-releases/releases) |
-| **SHA-256** | [SubtitleEditor-1.0.2-Setup.exe.sha256](https://github.com/aberthil/SubtitleEditor-releases/releases/latest/download/SubtitleEditor-1.0.2-Setup.exe.sha256) |
+| **SHA-256** | [SubtitleEditor-1.0.3-Setup.exe.sha256](https://github.com/aberthil/SubtitleEditor-releases/releases/latest/download/SubtitleEditor-1.0.3-Setup.exe.sha256) |
 
 > Prefer the **latest** tag always:  
 > https://github.com/aberthil/SubtitleEditor-releases/releases/latest
@@ -98,6 +98,10 @@ Setup includes owned **MPC-HC** (`binaries\mpc-hc`) and **ffprobe** — View wor
 ---
 
 ## What's New
+
+### v1.0.3
+
+- Readable cue text (strip font/ASS wrappers), fixed cue No. clipping, clearer View/MPC errors
 
 ### v1.0.2
 
